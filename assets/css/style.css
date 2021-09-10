@@ -98,7 +98,7 @@ footer h2 {
   max-width: 150px;
 }
 
-.description {
+.card {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -107,11 +107,11 @@ footer h2 {
   color: #ffffff;
 }
 
-.description img {
+.card img {
   max-height: 200px;
 }
 
-.description h2 {
+.card h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
